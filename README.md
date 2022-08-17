@@ -1,4 +1,5 @@
 [![singuyen027](https://circleci.com/gh/singuyen027/project-ml-microservice-kubernetes.svg?style=svg)](https://circleci.com/gh/singuyen027/project-ml-microservice-kubernetes)
+#GET_PASSES_THIS_REPO_UDACITY_PLEASE
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
@@ -47,4 +48,4 @@ source .devops/bin/activate
 * Setup and Configure Kubernetes locally
 * Create Flask app in Container
 * Run via kubectl
-#GET_PASSES_THIS_REPO_UDACITY_PLEASE
+
